@@ -9,6 +9,9 @@ so I used the model from the unity asset store.
 Using Animation Rigging feature in Unity to create bones in normal model.
 ![Capture](https://user-images.githubusercontent.com/67968545/201505835-f1392294-b1a3-4dae-a0ac-820183cf9bc4.PNG)
 ![Capture2](https://user-images.githubusercontent.com/67968545/201505837-8c599c75-bbdf-4372-ba87-3bd41d518a1f.PNG)
+Draw the tree corresponding to the model corresponding to the program:
+
+![IMG_3313](https://user-images.githubusercontent.com/67968545/201506475-d7699a1c-26c1-4053-b571-0499dd920982.jpg)
 
 
 Using animation window to creat 3 poses as required:
@@ -16,9 +19,10 @@ Using animation window to creat 3 poses as required:
 pose 0: figure standing straight with legs straight down and arms straight out;
 
 pose 1: figure standing with upper right arm straight out and lower right arm turned straight up; right leg out in kicking motion;
-
-pose 2: figure standing with upper left arm straight out and lower left arm turned straight up; lower part of right leg back
 ![a](https://user-images.githubusercontent.com/67968545/201506066-9d7bada1-5d0f-48b4-8bd5-2cd052421fbf.PNG)
+pose 2: figure standing with upper left arm straight out and lower left arm turned straight up; lower part of right leg back
+![old object](https://user-images.githubusercontent.com/67968545/201506689-927a1ee4-57ed-4b6a-a9cd-843c750ed2e6.PNG)
+
 
 And use script files to implement switching of actions with keyboard control.
 First add a few keys number 1 2 3 to preset key:
