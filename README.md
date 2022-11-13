@@ -23,6 +23,9 @@ pose 1: figure standing with upper right arm straight out and lower right arm tu
 pose 2: figure standing with upper left arm straight out and lower left arm turned straight up; lower part of right leg back
 ![old object](https://user-images.githubusercontent.com/67968545/201506689-927a1ee4-57ed-4b6a-a9cd-843c750ed2e6.PNG)
 
+table!![table](https://user-images.githubusercontent.com/67968545/201509438-d5e0eb6c-f230-4b97-ae6c-b48b87340ff1.PNG)
+
+
 
 And use script files to implement switching of actions with keyboard control.
 First add a few keys number 1 2 3 to preset key:
